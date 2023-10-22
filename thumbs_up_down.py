@@ -6,7 +6,7 @@ mp_hands = mp.solutions.hands
 hands = mp_hands.Hands()
 
 # Define the screen dimensions (width and height)
-screen_width = 1920  
+screen_width = 1920  #this is to keep a specific screen witdh and height and should be edited according to your screen width and height
 screen_height = 1080  
 
 # Initialize the previous Y positions for fingers
